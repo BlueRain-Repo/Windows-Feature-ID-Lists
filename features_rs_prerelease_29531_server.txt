@@ -1,11 +1,11 @@
 ## Unknown:
 
-  1282722105: 0
+  1282722105: 57557773
   23H2_Enablement: 45796396
-  23H2_Rollback: 0
+  23H2_Rollback: 45875500
   26370069: 26370069
   27285228: 27285228
-  29159638: 0
+  29159638: 29159638
   32112219: 32112219
   33289874: 33289874
   35409324: 35409324
@@ -24,13 +24,13 @@
   40869478: 40869478
   40979072: 40979072
   41121001: 41121001
-  41335509: 0
+  41335509: 41335509
   41356296: 41356296
   4175727930: 58681312
   41981645: 41981645
   42768911: 42768911
   42905461: 42905461
-  43283005: 0
+  43283005: 43283005
   43480734: 43480734
   43598358: 43598358
   43608630: 43608630
@@ -47,7 +47,7 @@
   44655134: 44655134
   44717088: 44717088
   44780443: 44780443
-  44879714: 0
+  44879714: 44879714
   44969195: 44969195
   45137489: 45137489
   45189206: 45189206
@@ -55,24 +55,24 @@
   45510231: 45510231
   45888038: 45888038
   45977652: 45977652
-  46045587: 0
+  46045587: 46045587
   46111200: 46111200
   46348128: 46348128
   46375308: 46375308
   46415209: 46415209
   46471475: 46471475
   46485871: 46485871
-  46536486: 0
+  46536486: 46536486
   46572530: 46572530
   46595479: 46595479
   46635544: 46635544
   46668738: 46668738
   46702346: 46702346
   46832986: 46832986
-  47170616: 0
+  47170616: 47170616
   47205210: 47205210
   47251916: 47251916
-  47454952: 0
+  47454952: 47454952
   47692516: 47692516
   47826483: 47826483
   47944061: 47944061
@@ -81,20 +81,20 @@
   48101911: 48101911
   48103152: 48103152
   48362945: 48362945
-  48449532: 0
-  48486440: 0
+  48449532: 48449532
+  48486440: 48486440
   48697323: 48697323
   48797684: 48797684
   48815925: 48815925
   48909483: 48909483
-  48969045: 0
+  48969045: 48969045
   48986217: 48986217
   49201598: 49201598
   4920_0542: 49200542
   49221331: 49221331
   49329958: 49329958
   4932_4623: 0
-  49343599: 0
+  49343599: 49343599
   49375672: 49375672
   49402389: 49402389
   49404847: 49404847
@@ -117,13 +117,13 @@
   50582925: 50582925
   50597829: 50597829
   51215370: 51215370
-  51222603: 0
-  51450362: 0
-  51450363: 0
+  51222603: 51222603
+  51450362: 51450362
+  51450363: 51450363
   51451849: 51451849
   51473953: 51473953
   51575997: 51575997
-  51626006: 0
+  51626006: 51626006
   51742149: 51742149
   51742149__Feature_51742149: 0
   51742224: 51742224
@@ -151,7 +151,7 @@
   52845862: 52845862
   52940282: 52940282
   52986630: 52986630
-  52988692: 0
+  52988692: 52988692
   52988742: 52988742
   52988745: 52988745
   52988760: 52988760
@@ -217,14 +217,14 @@
   54842890: 54842890
   54862045: 54862045
   54865932: 54865932
-  54902251: 0
+  54902251: 54902251
   54937480: 54937480
   55009825: 55009825
   55058864: 55058864
   55063786: 55063786
   55070915: 55070915
   55107406: 55107406
-  55119904: 0
+  55119904: 55119904
   55128266: 55128266
   55133158: 55133158
   55138543: 55138543
@@ -858,33 +858,33 @@
   59901639: 59901639
   59938328: 59938328
   59946133: 59946133
-  59947131: 0
+  59947131: 59947131
   59948819__Feature_59948819: 0
   59961277: 59961277
-  59964684: 0
-  59968371: 0
+  59964684: 59964684
+  59968371: 59968371
   59977655: 59977655
   5cdff46ad785473187b04fe5b23e1709: 44498562
-  60007457: 0
+  60007457: 60007457
   60007725: 60007725
-  60044391: 0
-  60045045__Feature_60045045: 0
+  60044391: 60044391
+  60045045__Feature_60045045: 60045045
   60060568: 60060568
-  60062523__Feature_60062523: 0
+  60062523__Feature_60062523: 60062523
   60064795: 60064795
   60146000: 60146000
   60148647: 60148647
   60160960: 60160960
-  60162522: 0
+  60162522: 60162522
   60163883: 60163883
-  60176027: 0
+  60176027: 60176027
   60181067: 60181067
   60181467: 60181467
   60191229: 60191229
   60204084: 60204084
   60215970: 60215970
-  60219445__Feature_60219445: 0
-  60232852: 0
+  60219445__Feature_60219445: 60219445
+  60232852: 60232852
   60237021: 60237021
   60237387: 60237387
   60253563: 60253563
@@ -939,7 +939,7 @@
   ALR: 51997565
   AMD_P384_EK_Cert: 48803766
   ANDP: 57728042
-  APX: 0
+  APX: 56246057
   ARCDSS: 46736541
   ARFIO: 44811738
   ATDAF: 56887328
@@ -1697,6 +1697,7 @@
   D3D12ComputeOnlyCustomHeapSupport: 42637981
   D3D12Displayable: 46360401
   D3D12DontKeepRuntimeCopyOfPsoDXIL: 58775042
+  D3D12GbvEarlyDxilConv: 19180386
   D3D12GenericFeatureLevel: 44469984
   D3D12GpuUploadHeaps: 40791818
   D3D12IndependentDevices: 39847774
@@ -2808,7 +2809,7 @@
   MoveToWDFMemory: 0
   Move_Renew_To_EnrollmentService: 51018766
   MsPaintEmulateMissingExe: 0
-  MsQuic_2_5: 0
+  MsQuic_2_5: 50118279
   MsaBackupAccountEngagementFeature: 44137035
   MsfteditGB_2022A_BugFix: 55953452
   MsgUseCSRSSTrueIL: 0
@@ -2949,8 +2950,8 @@
   NXTNetworkCapStartConnectionHardening: 0
   NXTOOBEDiagnostics: 0
   NXTPlatform_PerformanceCounters: 0
-  NXTPlatform_TimeSyncTaskUserOOBE: 0
-  NXTPlatform_TimeSyncTaskUserOOBEDisable: 0
+  NXTPlatform_TimeSyncTaskUserOOBE: 57451962
+  NXTPlatform_TimeSyncTaskUserOOBEDisable: 57527898
   NXTPowerHibernate: 0
   NXTPowerTransitionWatcher: 0
   NXTPowerTransitionWatcherModernStandby: 0
@@ -2958,7 +2959,7 @@
   NXTPowerTransitionWatcherStateChanges: 0
   NXTRemoveNetworkWait: 0
   NXTSetUserOOBEIndependently: 0
-  NXTShellLauncherResiliencyExempt: 0
+  NXTShellLauncherResiliencyExempt: 58007572
   NXTSleepOnAoAcDevices: 0
   NXTTurnOnNumLockAtLogin: 0
   NXTUrisRefactor: 0
@@ -3287,6 +3288,7 @@
   OsConfigurationPowerShell: 35038115
   OsConfigurationRegistryProvider: 49170978
   OsConfigurationScenarioDefinitionIngestion: 49476302
+  OverTargetedAIFPackage_Cleanup: 59361606
   OverrideTasksIntervals: 39448330
   OwnerAckTimeout: 0
   P2PFenceSignal: 0
@@ -3885,6 +3887,7 @@
   Servicing_FixVoiceShortCutClickEntry_49395877: 49395877
   Servicing_Fix_DmSessionActionCsp: 57848849
   Servicing_FixingDefaultAppRepResult_42441108: 0
+  Servicing_FlightMitigation_DeleteObsoleteCTACDefs: 56350973
   Servicing_FlightSettingsFixFlightIDRevisionCrash: 56949915
   Servicing_FlightingSSOCompliance: 47826411
   Servicing_FlushQueuedDpcsAtDispatchLevel: 0
@@ -4044,6 +4047,7 @@
   Servicing_NgcCredProvMultiUserRaceFix: 58974861
   Servicing_NoDesktopTrayFix: 48446971
   Servicing_NoisyAepException: 56112280
+  Servicing_NonSec_FuzzingBugWindowsException_USER_RtlpHeapFatalException: 59903825
   Servicing_NotLoadingOrtcEngine: 55335711
   Servicing_NotifyStartCompleteAfterSenseServiceStart: 54402139
   Servicing_NotifyTaskbarDashboardSettingChanged: 40891679
@@ -4199,6 +4203,10 @@
   Servicing_Sense_On_Server2012: 0
   Servicing_SetLanguageOperationState_InformationDisclosure: 57793121
   Servicing_SetToolTipIsOpenReliability_51787449: 51787449
+  Servicing_SetupLogsLostFix: 49426708
+  Servicing_SetupPlatform_UseScratchDirInOCMigration: 59970516
+  Servicing_SetupReflow: 58810974
+  Servicing_SetupServerBitlocker: 58287928
   Servicing_SetupUseEXBINSFlag: 54612362
   Servicing_ShadowPrincipalFixes: 59645672
   Servicing_SharedPCRetryMechanism: 57245335
@@ -4329,8 +4337,8 @@
   Servicing_WindowsHelloMJPEGFix: 59365099
   Servicing_Wintrust2024PreprodPca: 57710740
   Servicing_WkssvcAllocationPrimitive: 0
-  Servicing_WmiAmsiPerfFix: 57027899
-  Servicing_WmiAmsiPerfFix|mach2.warning.duplicate0: 2147749894
+  Servicing_WmiAmsiPerfFix: 2147749894
+  Servicing_WmiAmsiPerfFix|mach2.warning.duplicate0: 57027899
   Servicing_WoscCacheEndpointManager: 58421841
   Servicing_WoscNoQueryRegex: 57260513
   Servicing_WoscStateMapDoubleFree: 59411503
@@ -4382,7 +4390,14 @@
   SetupApi_FilterInstallParsing: 0
   SetupApi_Win32PathLimit: 0
   Setup_AllowServerUninstall: 56194242
+  Setup_EnableOEMFolderSupport: 49281031
+  Setup_FlexibleStorage: 48656224
+  Setup_FormatFileSystemType: 48656225
+  Setup_ModernSetupUnattend: 45867684
+  Setup_ModernSetupWinPE: 45867680
   Setup_NativeUIForCompat: 49345131
+  Setup_RemovingTooSmallDiskRange: 53993666
+  Setup_Temporary_Unblock_ReFSOnServer: 59443291
   ShareAnyWindow_VisualIndication: 35232263
   ShareBackingStoreWithKMD: 51793266
   ShareOnPdf: 14434234
@@ -5170,6 +5185,7 @@
   WinInetFixAppContainerPath: 0
   WinIoTBugFixBundle_Ge_5: 54330157
   WinIoTBugFixBundle_Ge_6: 54330164
+  WinIoTBugFixBundle_Ge_SyncController_UAF: 58090419
   WinIoTFileNamespaceRestrictionConsolidation: 53474267
   WinIoT_Disable_RestrictRun_ErrorMessage: 58731996
   WinLogonDisableMessageBoxes: 57736656
@@ -5212,6 +5228,7 @@
   WindowsSpotlightV3: 11024039
   WindowsTips: 11355840
   WingetCmdNotFound: 41542740
+  WingetSupportOnServercore: 48664963
   WinlogonExceptionFilter: 55918544
   WinlogonExtendedLogonUITerminate: 57084381
   WinlogonJobHandleDuplicate: 17045324
@@ -5295,12 +5312,12 @@
   uCodePatch_00A20F12_0A201210: 0
   uCodePatch_00A40F41_0A404107: 0
   uCodePatch_00A50F00_0A500011: 0
-  uCodePatch_00A60F12_0A601209: 0
-  uCodePatch_00A70F41_0A704107: 0
-  uCodePatch_00A70F52_0A705206: 0
-  uCodePatch_00A70F80_0A708007: 0
-  uCodePatch_00A70FC0_0A70C005: 0
-  widecharactersfix: 0
+  uCodePatch_00A60F12_0A601209: 56757139
+  uCodePatch_00A70F41_0A704107: 56757152
+  uCodePatch_00A70F52_0A705206: 56757162
+  uCodePatch_00A70F80_0A708007: 56757187
+  uCodePatch_00A70FC0_0A70C005: 56757200
+  widecharactersfix: 59727095
 
 ## Always Enabled:
 
@@ -8316,4 +8333,3 @@
 ## Always Disabled:
 
   MeetNow: 28170999
-
