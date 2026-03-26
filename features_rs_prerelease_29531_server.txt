@@ -1991,7 +1991,7 @@
   DualEngine_SuppressUnneededZoomEvents: 29059948
   DualEngine_SynchronousZoom: 29078494
   DualEngine_UninitializeCouplingOnClose: 43897227
-  Dual_Enrollment_With_Existing_Record: 56560985
+  Dual_Enrollment_With_Existing_Record: 6560985
   DuplicateTilesInAllAppsFix: 57204904
   DwmNotifZeroSizeNormalFix: 58050785
   DxDBHelper_AppStatus: 54016331
