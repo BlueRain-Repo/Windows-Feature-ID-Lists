@@ -8,11 +8,11 @@
   33289874: 33289874
   353735992: 54074203
   39449421: 39449421
-  40132362: 40132362
+  40132362__descriptor: 0
   40532040: 40532040
   40979072: 40979072
   41981645: 41981645
-  42039263: 42039263
+  42039263__descriptor: 0
   42905461: 42905461
   43698028: 43698028
   441392442: 60542424
@@ -66,8 +66,8 @@
   51540706: 51540706
   51549795: 51549795
   51718004: 51718004
-  51742149: 51742149
-  51742224: 51742224
+  51742149__Feature_51742149: 0
+  51742224__Feature_51742224: 0
   51835968: 51835968
   52049001: 52049001
   52265380: 52265380
@@ -84,10 +84,11 @@
   53188129: 53188129
   53331300: 53331300
   53427769: 53427769
+  53427769__Feature_53427769: 0
   53509714: 53509714
   53693327: 53693327
   53693389: 53693389
-  53798029: 53798029
+  53798029__Feature_53798029: 0
   53852258: 53852258
   54049508: 54049508
   54125579: 54125579
@@ -104,6 +105,7 @@
   54492249: 54492249
   54629273: 54629273
   54701437: 54701437
+  54701437__Feature_54701437: 0
   54702919: 54702919
   54719780: 54719780
   54842890: 54842890
@@ -127,7 +129,7 @@
   55701884: 55701884
   55707948: 55707948
   55709352: 55709352
-  55730600: 55730600
+  55730600__Feature_55730600: 0
   55733751: 55733751
   55740385: 55740385
   55753098: 55753098
@@ -862,6 +864,7 @@
   EdgeSplitPaneLogic: 54162333
   EmailAndAccountsStringsChanges: 44652844
   EnableDeveloperModeOnly__Feature_EnableDeveloperModeOnly: 0
+  EnableForwardedIo: 0
   EnableRunningHostedAppsWithAEA: 57261669
   EnableUninstallSystemComponentsForDMARegions: 57623725
   EnableVisualAssistWithActions__Feature_EnableVisualAssistWithActions: 0
@@ -913,13 +916,20 @@
   FixConvertUnitsM365CopilotHandoff__Feature_FixConvertUnitsM365CopilotHandoff: 0
   FixCrashDueToRawPointer: 56918335
   FixCustomCursorResetCrash: 57094515
+  FixFUAIssueForPerformance: 0
   FixHangOnOpenCategory: 56429325
+  FixKcsanRacyAccessIssues: 0
+  FixKcsanRacyAccessIssuesV2: 0
+  FixKcsanRacyAccessesInStorNVMe: 0
   FixNoOptionForVhdStorageOpConfirm: 59947587
   FixPenPressAndHoldToggle: 60490565
+  FixPerformanceIssueWithTRIM: 0
   FixRadialControllerTriggersLifetime: 52988769
   FixSendToCopilotTelemetry__Feature_FixSendToCopilotTelemetry: 0
+  FixSteelixUfsIceRegression: 0
   FixSysTrayFlickerOnAutoHide: 58323063
   FixTextInputThemeButtonReflow: 61032898
+  FixTrimRequestParameterValidation: 0
   FixVolumePropertiesNavHangOnLargeVolumes: 54641841
   Fixing2ndMonitorAEPOverlap: 50123717
   FlightingSSOCompliance__descriptor: 0
@@ -942,6 +952,7 @@
   GamepadLegendEnabled: 56394444
   Gamepad_NexusImprovements: 56227077
   GatePerf: 54238000
+  GeDlrmFixInitRace: 0
   GeVolFormatSizeIncreaseFat32: 51459868
   GetDefaultAccountTokenWXHHelper: 53284862
   GetPreferredThreadLanguage_Watson_AccessViolation_BugFix: 0
@@ -1129,6 +1140,8 @@
   Narrator_AddUpdates: 59171042
   Narrator_MathReadingSystemSettings: 60876709
   Narrator_Position_Callouts_For_Taskbar_apps: 40782004
+  NativeNVMeStackForGeClient: 60786016
+  NativeNVMeStackForGeServer: 59274315
   NcPaintCaptionIconLoopFix: 33393085
   NetworkDiagnostics: 37110096
   NetworkSpeedTest: 57703775
@@ -1296,6 +1309,7 @@
   Servicing_ARBECDB: 58676768
   Servicing_ArbiterOfflineImageArch: 56464558
   Servicing_AsyncAllowDrop_47476131: 47476131
+  Servicing_AtaOutOfBoundAccessFix: 0
   Servicing_BaselineAcquisitionFix: 49668334
   Servicing_BluetoothUX_RadioWatcherExceptionFix: 57288874
   Servicing_BrailleComboboxError_36531822: 36531822
@@ -1337,8 +1351,10 @@
   Servicing_LogFileProcesses: 0
   Servicing_NarratorFocusFixFlyoutV2_57012405: 57012405
   Servicing_Narrator_Pin_Unpin: 41649123
+  Servicing_NativeNVMe: 0
   Servicing_NeedyRunningIndicatorSizeChange_53069372: 53069372
   Servicing_NoisyAepException: 56112280
+  Servicing_NvmeofPowerDownIrp: 0
   Servicing_OffReg_CheckReg_Exception: 0
   Servicing_OutOfBoundWriteAtom: 0
   Servicing_OverlayIconUnloadAsync_33927195: 33927195
@@ -1360,6 +1376,7 @@
   Servicing_ReturnCBSGPRRErrors: 61273983
   Servicing_SSUWithLCUNotCrit: 54094094
   Servicing_SafeUpdateHostWindowClip: 57860517
+  Servicing_ScsiPassthroughRobustness: 0
   Servicing_SearchEducationAnimatedIconThemeFix_55800030: 55800030
   Servicing_SearchEducationAnimationTypingEventFix_55435574: 55435574
   Servicing_SearchIconOnTabSwitch_56246293: 56246293
@@ -1372,6 +1389,7 @@
   Servicing_StartMenuFixTouchInteractionStickySwipeUp: 45930155
   Servicing_StopRTMBaselineAcquisition: 58263318
   Servicing_StopSearchUXAnimationsWhenTurnedOff_55384482: 55384482
+  Servicing_StorageSetProperty_BufferCheck: 0
   Servicing_TaskbarAepHoverInvoke: 58568722
   Servicing_TaskbarBackgroundCrash_55377849: 55377849
   Servicing_TaskbarDarkPlateFix_41062168: 0
@@ -1394,6 +1412,7 @@
   Servicing_WeakChargerToast: 55740792
   Servicing_WidgetsTaskbarButtonRecovery: 58045604
   Servicing_Widgets_ExtensionLookupFix: 58148701
+  SetPciLinkBandwidthIoctl: 0
   SettingConsentPageUsesIEB: 61326465
   SettingsAIComponentsPage: 47688503
   SettingsAccountsInfoProgrammablePromoCard: 12908183
@@ -1475,6 +1494,8 @@
   StartMenuFixTouchInteractionStickySwipeUp__descriptor: 0
   StartVersionTelemetry: 57785534
   StartupAndDesktopSettings: 25537832
+  SteelixInlineNvmeCryptoEngine: 0
+  SteelixLbaSizeFix: 0
   StickerApp: 36321507
   StopRTMBaselineAcquisition__descriptor: 0
   StopResettingInputPanelOnPreloadV2: 58388813
@@ -1485,6 +1506,8 @@
   SuggestedChatAgentPromptProvider_JumpList: 58419385
   SupportPenInvokeAlways2602: 60326573
   Support_WebActivation: 60353668
+  SurfaceUfsHealthInfo: 0
+  SurfaceUfsHealthInfo_AV_fix: 0
   SustainabilityFixes_Q1: 57254418
   SustainabilityFixes_Q3: 54264117
   SwizzleForEdge: 37202025
@@ -1500,6 +1523,7 @@
   SystemSetting_SearchCloudFileProviderSettings: 56686472
   SystemSettings_Region_DeviceSetupRegion: 54921923
   SystrayPBDT: 48525682
+  TBTNVMe_RTD3: 0
   TMHRU: 40133961
   TSF4_API: 54490359
   TVF__Feature_TVF: 0
@@ -1584,6 +1608,7 @@
   UXFrame_LocalizedAccessibilityName: 56115719
   UaLiteTelemetryOnFailure__descriptor: 0
   UexTest7: 58989021
+  UfsTelemetryAndHealth: 0
   UndockedDecoupleScoobeFromUpgradeOnLogon: 31330396
   UndockedScoobeOnCleanInstallNoNetwork: 31333241
   UndockedScoobeOnLogonForUpgradedDevices: 31333254
