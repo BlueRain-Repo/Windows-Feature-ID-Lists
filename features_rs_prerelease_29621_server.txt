@@ -4649,7 +4649,7 @@
   Servicing_SensePushWnsTimeout: 0
   Servicing_Sense_On_Server2012: 59712357
   Servicing_SetLanguageOperationState_InformationDisclosure: 57793121
-  Servicing_SetupDeprecateMeteredNetwork: 0
+  Servicing_SetupDeprecateMeteredNetwork: 61440595
   Servicing_SetupFixLatentAcquisitionDUDisabled: 0
   Servicing_SetupImproveLowDiskSpace: 37968732
   Servicing_SetupLogsLostFix: 0
@@ -4657,7 +4657,7 @@
   Servicing_SetupPlatform_UseScratchDirInOCMigration: 0
   Servicing_SetupPlatform_WinSetupBootVolumeIssue: 58446257
   Servicing_SetupPlatform_WinSetupBootVolumeIssue_VHDBoot: 0
-  Servicing_SetupReflow: 0
+  Servicing_SetupReflow: 58810974
   Servicing_SetupUseEXBINSFlag: 54612362
   Servicing_Setup_LogProcessesForFailedDeletion: 0
   Servicing_ShadowPrincipalFixes: 59707979
@@ -4866,13 +4866,13 @@
   SetupUseEXBINSFlag__descriptor: 0
   Setup_AllowServerUninstall: 56194242
   Setup_EnableOEMFolderSupport: 0
-  Setup_FlexibleStorage: 0
-  Setup_FormatFileSystemType: 0
+  Setup_FlexibleStorage: 48656224
+  Setup_FormatFileSystemType: 48656225
   Setup_LogProcessesForFailedDeletion__descriptor: 0
   Setup_ModernSetupUnattend: 0
   Setup_ModernSetupWinPE: 0
   Setup_RemovingTooSmallDiskRange: 0
-  Setup_Temporary_Unblock_ReFSOnServer: 0
+  Setup_Temporary_Unblock_ReFSOnServer: 59443291
   ShadowPrincipalFixes__descriptor: 0
   ShareAnyWindow_VisualIndication: 35232263
   ShareOnPdf: 14434234
